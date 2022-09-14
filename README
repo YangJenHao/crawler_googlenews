@@ -43,7 +43,7 @@ wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 ```  
 ｜檔案執行方式｜
 pip套件安裝
-```
-$ pip install -r requirements.txt
+``` bash
+pip install -r requirements.txt
 ```
 使用crawler.ipynb， 且每個欄位皆有註解，如有異常請在issue提出
