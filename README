@@ -42,6 +42,8 @@ urllib3==1.26.12
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 ```  
 ｜檔案執行方式｜
+創立一個python環境後再安裝套件
+且需安裝jupyter notebook
 pip套件安裝
 ``` bash
 pip install -r requirements.txt
